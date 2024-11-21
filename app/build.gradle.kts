@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.nelson_github_navigator"
+    namespace = "com.gordongz.github_navigator"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.nelson_github_navigator"
+        applicationId = "com.gordongz.github_navigator"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

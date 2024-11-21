@@ -9,7 +9,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
-import com.gordongz.github_navigator.ui.viewmodel.GithubUserInfoViewModel
+import com.gordongz.github_navigator.viewmodel.GithubUserInfoViewModel
 
 @Composable
 fun GithubUserInfoScreen(viewModel: GithubUserInfoViewModel = viewModel(), navController: NavController) {

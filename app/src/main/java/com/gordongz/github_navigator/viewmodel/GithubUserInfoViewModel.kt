@@ -1,4 +1,4 @@
-package com.gordongz.github_navigator.ui.viewmodel
+package com.gordongz.github_navigator.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

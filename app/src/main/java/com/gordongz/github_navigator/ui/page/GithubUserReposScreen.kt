@@ -13,7 +13,7 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
 import com.gordongz.github_navigator.GithubRepo
-import com.gordongz.github_navigator.ui.viewmodel.GithubUserInfoViewModel
+import com.gordongz.github_navigator.viewmodel.GithubUserInfoViewModel
 
 @Composable
 fun GithubUserReposScreen(username: String, navController: NavController, viewModel: GithubUserInfoViewModel = viewModel()) {
